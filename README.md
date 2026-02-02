@@ -1,1 +1,2 @@
 # vampo
+ data cloud mode
